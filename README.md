@@ -126,6 +126,7 @@ The system will automatically detect and load the model on next startup.
 - OpenCV, MediaPipe, Flask, NumPy (see `requirements.txt`)
 
 ---
+## 📸 Screenshots
 
 ## Author
 

@@ -130,6 +130,13 @@ The system will automatically detect and load the model on next startup.
 
 https://github.com/Durgamvani-184/ai_exam_proctor/blob/a33db0f168c6f4678b7eafceb6279350b0af5744/dashborad.jpeg
 
+## 🚀 Future Improvements
+
+- Audio-based cheating detection
+- Tab switching detection
+- Face recognition (student identity verification)
+- Cloud deployment (AWS / Render)
+
 ## Author
 
 Upgraded Exam Proctoring System — based on the original project by Durgam Vani.

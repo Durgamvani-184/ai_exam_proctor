@@ -128,7 +128,7 @@ The system will automatically detect and load the model on next startup.
 ---
 ## 📸 Screenshots
 
-https://github.com/Durgamvani-184/ai_exam_proctor/blob/a33db0f168c6f4678b7eafceb6279350b0af5744/dashborad.jpeg
+https://github.com/Durgamvani-184/ai_exam_proctor/blob/f01001a792ded19b9be35f45bbb34dfdce196ea4/dashborad.jpeg
 
 ## 🚀 Future Improvements
 
